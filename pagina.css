@@ -1,0 +1,40 @@
+body {
+    background-image: url(./Imagenes/Fondo\ flayer.webp);
+    background-size: cover;
+    background-position: 70%;
+}
+
+.fondoverde {
+    background-color: red;
+}
+
+h2 {
+    background-color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tituloprincipal {
+    background-color: red;
+    width: 300px;
+    height: 50px;
+}
+
+button {
+    display: block;
+    background-color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botongris {
+    background-color:red;
+}
+
+
+
+h1{
+    background-color: blue;
+}
+
+#textounico {
+    background-color: blue;
+}
